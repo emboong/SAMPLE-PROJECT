@@ -39,7 +39,7 @@ nav ul li a{
     font-weight: bold;
 }
 nav ul li a :hover{
-    transition: .4s;
+    transition: .5s;
     color: rgb(233, 22, 22);
 }
 .main{
